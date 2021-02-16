@@ -5,12 +5,16 @@ A current overview of Notary v2, including a collection of requirements & scenar
 ## TOC
 
 - [Overview](#notary-v2-overview)
-- [Scenarios][nv2-scenarios]
-- [Threat Model][nv2-threat-model]
 - [Notary v2 Journey](#the-notary-v2-journey)
 - [Top Areas of Focus](#top-areas-of-focus)
 - [Stages of Development](#stages-of-development)
 - [Notary v2 February 2021 Status](./notary-status-2021-02.md)
+
+Additional details for Notary v2 efforts:
+
+- [Goals & Requirements][nv2-requirements]
+- [Scenarios][nv2-scenarios]
+- [Threat Model][nv2-threat-model]
 - [Definitions & Terms][nv2-definitions]
 - [Contributing](#contributing-&-conversations)
 
