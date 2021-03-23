@@ -62,7 +62,7 @@ A [Prototype-1 Signature Spec][nv2-signature-spec] has been defined, serializing
 
 ### Registry Persistance, Discovery and Retrieval
 
-To validate the end to end experiences, an experimental change to [CNCF Distribution](https://github.com/notaryproject/distribution/pull/2/) enabled linking of a container image and an independent Notary v2 signature.
+To validate the end to end experiences, an experimental change to [CNCF Distribution](https://github.com/notaryproject/distribution/pull/3) enabled linking of a container image and an independent Notary v2 signature.
 
 An experimental docker plug-in called [docker-generate](https://github.com/shizhMSFT/docker-generate) generates a local manifest, used to generate the signature. The plug-in extends the `docker push` command to push the signature and make an additional link API request of the registry.
 
